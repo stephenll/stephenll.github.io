@@ -7,6 +7,8 @@ N = 10
 r = rand(N,N)
 ```
 
+$\frac{\alpha}{\beta} = \gamma$
+
 Another code block.
 
 ```julia
