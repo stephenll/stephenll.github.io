@@ -10,7 +10,7 @@ x = [1,2,3,4,5]
 
 $\frac{\alpha}{\beta} = \gamma$
 
-Another code block.
+Another code blockz.
 
 ```julia
 function hypot(x,y)
