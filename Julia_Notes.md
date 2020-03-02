@@ -5,6 +5,7 @@ This looks interesting.
 ```julia
 N = 10
 r = rand(N,N)
+x = [1,2,3,4,5]
 ```
 
 $\frac{\alpha}{\beta} = \gamma$
