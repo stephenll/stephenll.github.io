@@ -8,7 +8,7 @@ r = rand(N,N)
 x = [1,2,3,4,5]
 ```
 
-$\frac{\alpha}{\beta} = \gamma$
+$$\frac{\alpha}{\beta} = \gamma$$
 
 Another code blockz.
 
